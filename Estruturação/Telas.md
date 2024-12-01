@@ -1,0 +1,27 @@
+#Telas
+
+Aqui será possível ver todas as nossas telas
+
+![image](https://github.com/ppads-2024s1-g12/Projeto-Tomaz/assets/111023379/98f60c37-cf72-4df6-b9e4-8a3007b2b9e9)
+![image](https://github.com/ppads-2024s1-g12/Projeto-Tomaz/assets/111023379/2002aeca-57ca-4f35-8fe8-5465646326ec)
+![image](https://github.com/ppads-2024s1-g12/Projeto-Tomaz/assets/111023379/501e1899-c426-4d38-99b7-6a8b9f7151d2)
+![image](https://github.com/ppads-2024s1-g12/Projeto-Tomaz/assets/111023379/902b8f9d-f935-4887-8a01-c053cf480dbf)
+![image](https://github.com/ppads-2024s1-g12/Projeto-Tomaz/assets/111023379/7c159c10-1c5a-479b-8f9e-ac16c56a3cb6)
+![image](https://github.com/ppads-2024s1-g12/Projeto-Tomaz/assets/111023379/ffd1c28b-cfb9-444f-bd54-6750c2899dc8)
+![image](https://github.com/ppads-2024s1-g12/Projeto-Tomaz/assets/111023379/1586f523-137d-405f-a22d-0c6a76f0a536)
+![image](https://github.com/ppads-2024s1-g12/Projeto-Tomaz/assets/111023379/ef696e5c-bed2-4568-b2ff-b6e45f091eec)
+![image](https://github.com/ppads-2024s1-g12/Projeto-Tomaz/assets/111023379/7502746d-1855-439e-8a72-6007952e8be5)
+![image](https://github.com/ppads-2024s1-g12/Projeto-Tomaz/assets/111023379/d75dcd4c-a27d-455c-bdfe-bc07fdad2465)
+![image](https://github.com/ppads-2024s1-g12/Projeto-Tomaz/assets/111023379/76b880cb-181e-4dd8-b003-328f2de2a462)
+![image](https://github.com/ppads-2024s1-g12/Projeto-Tomaz/assets/111023379/b2d7de10-22cc-4637-ac58-142a078d6684)
+![image](https://github.com/ppads-2024s1-g12/Projeto-Tomaz/assets/111023379/9b263bfd-f12c-4f08-995a-886239c283a1)
+![image](https://github.com/ppads-2024s1-g12/Projeto-Tomaz/assets/111023379/09c2f520-e9c0-4e58-9c10-f87a6b78a389)
+![image](https://github.com/ppads-2024s1-g12/Projeto-Tomaz/assets/111023379/2505ce54-6efd-4a18-8c48-4316bd316925)
+![image](https://github.com/ppads-2024s1-g12/Projeto-Tomaz/assets/111023379/f1e2d080-0190-4a0d-9f7e-b136e85eb823)
+![image](https://github.com/ppads-2024s1-g12/Projeto-Tomaz/assets/111023379/fbc1cc24-d21f-42ae-9785-54ebfdfe8f71)
+![image](https://github.com/ppads-2024s1-g12/Projeto-Tomaz/assets/111023379/bba0b0dd-53dd-44ae-8147-4cc3accd9220)
+![image](https://github.com/ppads-2024s1-g12/Projeto-Tomaz/assets/111023379/d0afeee8-e1e1-44a7-aff0-2a616e50bd48)
+![image](https://github.com/ppads-2024s1-g12/Projeto-Tomaz/assets/111023379/75ae7162-b57d-408b-9aac-dbb9a98dc402)
+![image](https://github.com/ppads-2024s1-g12/Projeto-Tomaz/assets/111023379/2654e07a-a73a-4029-af3d-35c064158510)
+![image](https://github.com/ppads-2024s1-g12/Projeto-Tomaz/assets/111023379/66820cb4-e085-4993-8b8a-2420bd88f7d3)
+![image](https://github.com/ppads-2024s1-g12/Projeto-Tomaz/assets/111023379/d128ffc9-4d3b-4fc4-acb3-0697e332c2df)
